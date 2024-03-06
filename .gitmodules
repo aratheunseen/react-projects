@@ -1,0 +1,6 @@
+[submodule "wildfire-tracker"]
+	path = wildfire-tracker
+	url = https://github.com/aratheunseen/react-wildfire-tracker.git
+[submodule "nft-marketplace"]
+	path = nft-marketplace
+	url = https://github.com/aratheunseen/nft-marketplace.git
